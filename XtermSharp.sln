@@ -4,6 +4,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XtermSharp", "XtermSharp\XtermSharp.csproj", "{218EB800-B5D6-46C3-8113-8DB312AE0C64}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2B22E8B8-1755-4DD5-9242-EEAD96FC1178}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+		LICENSE = LICENSE
+		README.md = README.md
+		TODO.md = TODO.md
+		.gitignore = .gitignore
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuiCsHost", "GuiCsHost\GuiCsHost.csproj", "{738D8A9B-8785-40AA-9D2A-94360530F0D1}"
 EndProject
